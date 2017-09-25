@@ -1,0 +1,19 @@
+{
+  "name": "tdd-testing",
+  "version": "1.0.0",
+  "description": "simple tss demo",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "mocha Test/test.js"
+  },
+  "keywords": [
+    "TDD",
+    "Javascript"
+  ],
+  "author": "sophie",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  }
+}
